@@ -1,15 +1,15 @@
 {
     "posts": [
-      {
+        {
         "id": 1,
         "title": "Hello-1!"
-      },
-          {
+        },
+            {
         "id": 2,
         "title": "Hello-2!"
-      }
+        }
     ],
     "profile": {
-      "name": "typicode"
+        "name": "typicode"
     }
-  }
+}

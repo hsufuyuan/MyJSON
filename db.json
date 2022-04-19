@@ -1,11 +1,32 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "id": 1,
+    "name": "A",
+    "detail": "AA"
+  },
+  {
+    "id": 2,
+    "name": "B",
+    "detail": "BA"
+  },
+  {
+    "id": 3,
+    "name": "C",
+    "detail": "CA"
+  },
+  {
+    "id": 4,
+    "name": "D",
+    "detail": "DA"
+  },
+  {
+    "id": 5,
+    "name": "A",
+    "detail": "AB"
+  },
+  {
+    "id": 6,
+    "name": "A",
+    "detail": "AC"
   }
-}
+]
